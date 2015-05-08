@@ -1,3 +1,9 @@
+// Name: Robyn Haley
+// SID: 861149793
+
+// Date: 5/7/15
+// Lab05
+
 #ifndef LAB5_H
 #define LAB5_H
 
